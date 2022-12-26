@@ -10,6 +10,7 @@
 * :white_check_mark: DRF
 * :white_check_mark: SQL( MySQL, PostgresQL)
 * :white_check_mark: MongoDB
+* :white_check_mark: Java (basic)
 * :white_check_mark: JS, React.js (basic)
 * :white_check_mark: HTML, CSS (basic)
 * :white_check_mark: Linux
