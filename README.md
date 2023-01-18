@@ -21,5 +21,4 @@
 * :floppy_disk:: Pycharm
 * :floppy_disk:: VSCode
 * :floppy_disk: Git
-* :floppy_disk: Nginx
 * :floppy_disk: Postman
