@@ -14,7 +14,7 @@
 * :white_check_mark: JS, React.js (basic)
 * :white_check_mark: HTML, CSS (basic)
 * :white_check_mark: Linux
-* :white_check_mark: Web scraping(Scrapy, Beautiful Soup)
+* :white_check_mark: Web scraping(Scrapy)
 
 ### Tools
 ---
