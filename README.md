@@ -1,5 +1,4 @@
 * ##### :star: Hi, my name is Evgeny Rinkevich
-* ##### :star: I've been studying Python/Django/DRF for 1+ year
 * ##### :star: I'm looking for a back-end or full stack developer job
 
 
